@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BeachNusa</string>
+
+    <array name="data_name">
+        <item>Pulau Weh, Aceh</item>
+        <item>Nihiwatu Beach, NTT</item>
+        <item>Pantai Ora, Maluku Tengah</item>
+        <item>Pink Beach, Pulau Komodo, NTT</item>
+        <item>Raja Ampat, Papua Barat</item>
+        <item>Tomini Bay, Sulawesi Utara</item>
+        <item>Pulau Hatta, Maluku Tenggara</item>
+        <item>Pulau Derawan, Kalimantan Timur</item>
+        <item>Gili Trawangan, Lombok, NTB</item>
+        <item>Pulau Belitung, Bangka Belitung</item>
+    </array>
+
+    <array name="data_description">
+        <item>Pulau Weh (atau We) atau dikenal juga dengan Pulau Sabang adalah pulau vulkanik kecil yang terletak di barat laut Pulau Sumatra. Pulau ini pernah terhubung dengan Pulau Sumatra, namun kemudian terpisah oleh laut setelah meletusnya gunung berapi terakhir kali pada zaman Pleistosen. Pulau ini terletak di Laut Andaman. Kota terbesar di Pulau Weh, Sabang, adalah kota yang terletak paling barat di Indonesia.</item>
+        <item>Wilayah Sumba Barat, Provinsi Nusa Tenggara Timur (NTT) ternyata menyimpan Pantai yang masuk kedalam 100 pantai terbaik di dunia, pantai ini bernama Pantai Nihiwatu. Pantai itu berada di peringkat ke 17 dari 100 pantai terbaik di dunia dan satu – satunya pantai di Indonesia yang terpilih menjadi pantai terbaik di Asia</item>
+        <item>Pantai Ora adalah suatu pantai yang terletak Pulau Seram, kecamatan Seram Utara, Maluku Tengah, Maluku, Indonesia. Pantai yang berlokasi di ujung barat teluk Sawai ini berada di sebelah Desa Saleman dan Desa Sawai, di tepi hutan Taman Nasional Manusela. Pantai Ora memiliki karakteristik pantai yang berpasir putih dengan air yang sangat jernih dan tenang dengan kekayaan terumbu karang, ikan dan aneka ragam biota laut lainnya. Pantai Ora dan desa Sawai merupakan objek wisata di teluk Sawai yang setiap tahunnya dapat menyedot sekitar 500 wisatawan dari dalam dan luar negeri (2013).[1] Pantai Ora memiliki resor penginapan yang mengambang di atas pantai. Sementara di Desa Sawai terdapat pondok wisata yang berada di antara pemukiman penduduk yang juga terapung di pantai. Berbagai kegiatan wisata yang dapat dilakukan di Pantai Ora antara lain wisata alam, wisata tirta, selam permukaan, selam, wisata kuliner, jelajah gua dan fotografi.</item>
+        <item>Pulau Komodo adalah sebuah pulau yang terletak di Kepulauan Nusa Tenggara, berada di sebelah timur Pulau Sumbawa, yang dipisahkan oleh Selat Sape. Pulau Komodo dikenal sebagai habitat asli hewan komodo. Pulau ini termasuk salah satu kawasan Taman Nasional Komodo yang dikelola oleh Pemerintah Pusat. Secara administratif, pulau ini termasuk wilayah Kabupaten Manggarai Barat, Kecamatan Komodo, Provinsi Nusa Tenggara Timur, Indonesia. Pulau Komodo merupakan ujung paling barat Provinsi Nusa Tenggara Timur, berbatasan dengan Provinsi Nusa Tenggara Barat.</item>
+        <item>Kepulauan Raja Ampat merupakan rangkaian empat gugusan pulau yang berdekatan dan berlokasi di barat bagian Kepala Burung (Vogelkoop) Pulau Papua. Secara administrasi, gugusan ini berada di bawah Kabupaten Raja Ampat, Provinsi Papua Barat. Kepulauan ini sekarang menjadi tujuan para penyelam yang tertarik akan keindahan pemandangan bawah lautnya. Empat gugusan pulau yang menjadi anggotanya dinamakan menurut empat pulau terbesarnya, yaitu Pulau Waigeo, Pulau Misool, Pulau Salawati, dan Pulau Batanta.</item>
+        <item>Tomini Bay merupakan teluk terbesar di Indonesia dengan luas sekitar 6.000.000 hektar dan mempunyai 90 pulau. Tempat wisata ini sangat cocok bagi Anda yang mempunyai hobi diving, karena tempat ini memiliki habitat bawah laut yang sangat indah. Keindahan bawah laut di Tomini Bay seperti surga dunia sehingga rasanya sangat sulit untuk mendandingi kecantikannya. Bagi beberapa penyelam yang dating dari luar ataupun dalam negeri, Tomini Bay merupakan primadona bagi mereka.</item>
+        <item>Pulau Hatta adalah desa dan pulau di kecamatan Banda, Kabupaten Maluku Tengah, Maluku, Indonesia. Letak pulau ini ada 25 km di sebelah timur Kepulauan Banda. Nama lama Pulau Hatta adalah Pulau Rozengain. Pulau ini dinamakan menurut Mohammad Hatta, salah satu proklamator Indonesia. Saat ini, hanya ada 2 permukiman kecil di Pulau Hatta, tanpa fasilitas apapun. Pulau Hatta dapat dijangkau menggunakan perahu stabil bertutup dari Banda Neira. Perahu sewaan biasanya singgah di beberapa tempat, seperti Pulau Syahrir dan Karnofol.</item>
+        <item>Kepulauan Derawan adalah sebuah kepulauan yang berada di Kabupaten Berau, Kalimantan Timur. Di kepulauan ini terdapat sejumlah objek wisata bahari menawan, salah satunya Taman Bawah Laut yang diminati wisatawan mancanegara terutama para penyelam kelas dunia. Kepulauan Derawan memiliki tiga kecamatan yaitu, Pulau Derawan, Maratua, dan Biduk Biduk, Berau.</item>
+        <item>Dengan urutan Gili Trawangan, Gili Meno, dan Gili Air dari barat ke timur, Kepulauan Gili adalah gugusan pulau dengan ekosistem bawah laut yang sangat kaya. Jajaran pantai berpasir putih, keragaman gugusan karang, serta keanekaan biota laut merupakan elemen-elemen yang mengisi kepulauan ini. Karena itulah, Kepulauan Gili menjadi salah satu spot menyelam terbaik di dunia</item>
+        <item>Kepulauan Bangka Belitung adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 buah dan yang berpenghuni hanya 50 pulau. Bangka Belitung terletak di bagian timur Pulau Sumatra, dekat dengan Provinsi Sumatra Selatan. Bangka Belitung dikenal sebagai daerah penghasil timah, memiliki pantai yang indah dan kerukunan antar etnis. Ibu kota provinsi ini ialah Pangkalpinang. Pemerintahan provinsi ini disahkan pada tanggal 9 Februari 2001. Setelah dilantiknya Pj. Gubernur yakni H. Amur Muchasim, SH (mantan Sekjen Depdagri) yang menandai dimulainya aktivitas roda pemerintahan provinsi.</item>
+    </array>
+
+    <array name="data_photo">
+        <item>@drawable/pantai_weh</item>
+        <item>@drawable/pantai_nihiwatu</item>
+        <item>@drawable/pantai_ora</item>
+        <item>@drawable/pantai_pink_beach</item>
+        <item>@drawable/pantai_raja_ampat</item>
+        <item>@drawable/pantai_tomini_bay</item>
+        <item>@drawable/pantai_pulau_hatta</item>
+        <item>@drawable/pantai_pulau_derawan</item>
+        <item>@drawable/pantai_gili_trawangan</item>
+        <item>@drawable/pantai_pulau_belitung</item>
+    </array>
+
+</resources>

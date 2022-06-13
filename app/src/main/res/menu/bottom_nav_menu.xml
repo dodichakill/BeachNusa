@@ -7,10 +7,6 @@
         android:icon="@drawable/ic_home"
         android:title="home" />
     <item
-        android:id="@+id/favoriteFragment"
-        android:icon="@drawable/ic_favorite"
-        android:title="favorite" />
-    <item
         android:id="@+id/aboutFragment"
         android:icon="@drawable/ic_about"
         android:title="about" />

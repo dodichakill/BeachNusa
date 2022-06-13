@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
 
         //insert data ke data class card
-         val cards = arrayListOf<Card>()
+        val cards = arrayListOf<Card>()
         for (position in dataName.indices) {
             val card = Card(
                 dataPhoto.getResourceId(position, -1),
@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
         //memberikan aksi ketika list diklik
         listView.onItemClickListener = AdapterView.OnItemClickListener{
-            _, _, position, _ ->
+                _, _, position, _ ->
             val intent = Intent(this, CardDetailActivity::class.java)
             intent.putExtra(CardDetailActivity.KEY_CARD, cards[position])
             startActivity(intent)
